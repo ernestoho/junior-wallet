@@ -1,14 +1,14 @@
 {
-  "name": "magic-wallet",
-  "author": "@GalloDaSballo",
+  "name": "junior-wallet",
+  "author": "@ErnestoHo",
   "contributors": [
     {
-      "name": "Nik Vogrinec",
-      "github": "https://github.com/NikVogri"
+      "name": "Ernesto Ho",
+      "github": "https://github.com/ernestoho/"
     },
     {
-      "name": "@erikdstock",
-      "github": "https://github.com/erikdstock"
+      "name": "@ernestho",
+      "github": "https://github.com/ernestoho"
     }
   ],
   "license": "MIT",
